@@ -3,7 +3,6 @@ import { colorData } from '../data'
 import { MdDelete, MdTaskAlt } from 'react-icons/md'
 import axios from 'axios'
 import { TodoContext } from '../context/TodoContext'
-import { colorcode } from '../../../backend/controllers/todocontrollers'
 import toast from 'react-hot-toast'
 
 
